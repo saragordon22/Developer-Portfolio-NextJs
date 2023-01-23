@@ -2,7 +2,7 @@
 function Welcome(props) {
     return <div>
     <div id="header">
-    <h1>SARA GORODON </h1>
+    <h1>SARA GORDON </h1>
     <h2>DEVELOPER PORTFOLIO</h2>
     </div>
     <img id="image1" src="/static/image1.jpg" alt="my image" />
@@ -11,7 +11,7 @@ function Welcome(props) {
     <h3>WHO I AM AND WHAT I DO</h3>
         <p>Hello, I'm Sara. </p> 
         <p>I'm currently a student at HyperiodDev completing a 6 month Full Stack Web Developer Bootcamp through the University of Edinburgh.</p>
-        <p>I have worked in the voluntary sector for the last eight years and and am pursuing a career change into web development.</p>
+        <p>I have worked in the voluntary sector for the last eight years and am pursuing a career change into web development.</p>
         <p>I am motivated and have the ambition needed to learn the skills to make that happen.  I believe that I will find the work stimulating and rewarding and the working environment well-suited to my personality, experience and ambition. </p>
     </div>
 
