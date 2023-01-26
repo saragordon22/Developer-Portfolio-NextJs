@@ -7,7 +7,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
 <Script 
-async src="https://www.googletagmanager.com/gtag/js?id=G-GK5NMLQN9Q"
+async src="https://www.googletagmanager.com/gtag/js?id=UA-255349352-2"
 />
 <Script id="google-analytics" strategy="afterInteractive">
   {`
@@ -15,7 +15,7 @@ async src="https://www.googletagmanager.com/gtag/js?id=G-GK5NMLQN9Q"
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-GK5NMLQN9Q');
+  gtag('config', 'UA-255349352-2');
   `}
 </Script>
     <div>
